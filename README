@@ -1,2 +1,8 @@
+UCSD Mentor Program 2016
+Student: Mong H. Ng
+Mentor: Dr. Giorgio Quer
+This repository contains the Jupyter Notebooks that recorded the research I did under Dr. Giorgio Quer. We mainly focused on PPG and ECG signal data extraction and alignment between ECG-derived RRIT signal and PPG-derived RRIT signal.
+For exhaustive details we did in the research, see the notebook titled UCSD Mentor Program 2016.ipynb.
+
 This repository is created by MOng (Mong H. Ng).
 All Right Reserved.
